@@ -1,9 +1,10 @@
 # Popular-Movies
 Popular Movies app
 
-![popular movies](https://github.com/blockhead404/Popular-Movies/2.png)
-
-![popular movies](https://github.com/blockhead404/Popular-Movies/1.png)
+<p align="center">
+  <img src="https://github.com/blockhead404/Popular-Movies/blob/master/2.png" height="350" title="hover text">
+  <img src="https://github.com/blockhead404/Popular-Movies/blob/master/1.png" height="350" alt="accessibility text">
+</p>
 
 ### API Key
 
