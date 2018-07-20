@@ -13,3 +13,7 @@ The app uses themoviedb.org API to get movie information and posters. You must p
 Just put your API key into `~/app/src/main/java/me/debjyotiguha/popularmovies/utilities/NetworkUtils.java` file
 
 [1]: https://www.themoviedb.org/documentation/api
+
+## Authors
+
+***[Debjyoti Guha](https://github.com/debajyotiguha11/)***
